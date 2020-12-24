@@ -1,8 +1,10 @@
 # Hello there! Nice to meet you 😃
 
 
-![GitHub followers](https://img.shields.io/github/followers/alexanderaugusto?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=alexanderaugusto.alexanderaugusto)
+[![GitHub followers](https://img.shields.io/github/followers/alexanderaugusto.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/alexanderaugusto?tab=followers)
+![](https://komarev.com/ghpvc/?username=alexanderaugusto&color=006bed)
+[![Linkedin Badge](https://img.shields.io/badge/-Alexander%20Augusto-006bed?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexanderaugusto/)](https://www.linkedin.com/in/alexanderaugusto/) 
+[![Gmail Badge](https://img.shields.io/badge/-alexaasf1010@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexaasf1010@gmail.com)](mailto:alexaasf1010@gmail.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
