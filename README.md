@@ -28,19 +28,19 @@ Feel free to take a look at all my repositories and if you find something useful
 
 ## Languages and Technologies
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electronjs" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sequelize/sequelize-plain-wordmark.svg" alt="sequelize" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-plain-wordmark.svg" alt="java" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="electronjs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain-wordmark.svg" alt="sequelize" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
