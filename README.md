@@ -26,6 +26,9 @@ Feel free to take a look at all my repositories and if you find something useful
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Spotify Playing 🎧
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/3z7i1fhzh9g6hnpygz3i3bqki)
+
 ## Languages and Technologies
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
@@ -59,3 +62,6 @@ Feel free to take a look at all my repositories and if you find something useful
 
 ## Mostly used languages
 ![Alexander Augusto github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderaugusto&layout=compact&langs_count=6)
+
+<i>Random dev joke for you!</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
