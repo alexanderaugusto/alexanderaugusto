@@ -18,7 +18,7 @@ Feel free to take a look at all my repositories and if you find something useful
 
 ## About
 
-- 🎤 I’m currently working on  [Aurem](https://aurem.com.br)
+- 🎤 I’m currently working on  [Ericsson](https://www.ericsson.com/en) | [Inatel](https://inatel.br/icc/)
 - 🏢 I'm currently studying on [Inatel](https://inatel.br/home/)
 - 🤖 I’m currently learning Artificial Inteligence
 - 🚀 Look to my projects on [https://alexanderaugusto.com/](https://alexanderaugusto.com/)
@@ -57,4 +57,4 @@ Feel free to take a look at all my repositories and if you find something useful
 ![Alexander Augusto github stats](https://github-readme-stats.vercel.app/api?username=alexanderaugusto&show_icons=true&hide_border=true)
 
 ## Mostly used languages
-![Alexander Augusto github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderaugusto&layout=compact)
+![Alexander Augusto github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderaugusto&layout=compact&langs_count=6)
