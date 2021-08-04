@@ -27,7 +27,7 @@ Feel free to take a look at all my repositories and if you find something useful
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Spotify Playing 🎧
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/3z7i1fhzh9g6hnpygz3i3bqki)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3z7i1fhzh9g6hnpygz3i3bqki&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=3z7i1fhzh9g6hnpygz3i3bqki&redirect=true)
 
 ## Languages and Technologies
 <p align="left">
