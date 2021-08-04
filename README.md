@@ -55,3 +55,6 @@ Feel free to take a look at all my repositories and if you find something useful
 
 ## Github Statistics
 ![Alexander Augusto github stats](https://github-readme-stats.vercel.app/api?username=alexanderaugusto&show_icons=true&hide_border=true)
+
+## Mostly used languages
+![Alexander Augusto github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderaugusto&layout=compact)
