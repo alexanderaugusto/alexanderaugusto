@@ -26,26 +26,41 @@ Feel free to take a look at all my repositories and if you find something useful
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3z7i1fhzh9g6hnpygz3i3bqki&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=3z7i1fhzh9g6hnpygz3i3bqki&redirect=true)
-
 ## Languages and Technologies
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="electronjs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain-wordmark.svg" alt="sequelize" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
-</p>
+
+### Development
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript%20-2f74c0.svg?logo=typescript&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white)&nbsp;
+![Node JS](https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring%20Boot%20-6aad3d.svg?logo=spring&logoColor=white)&nbsp;
+![Next JS](https://img.shields.io/badge/Next%20JS%20-131313.svg?logo=next.js&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React%20-f7f7f7.svg?logo=react&logoColor=%2361DAFB)&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native%20-212121.svg?logo=react&logoColor=%2361DAFB)&nbsp;
+![Electron](https://img.shields.io/badge/Electron-2a2d38.svg?logo=react&logoColor=%2361DAFB)&nbsp;
+![Karate](https://img.shields.io/badge/Karate-000000.svg?logo=karate&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-bf3b14.svg?logo=jest&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726.svg?logo=jupyter&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgreSQL-336791.svg?logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-f5830d.svg?logo=firebase&logoColor=white)&nbsp;
+
+### DevOps
+![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2391e6.svg?logo=docker&logoColor=white)&nbsp;
+![Travis](https://img.shields.io/badge/Travis-c73048.svg?logo=travis&logoColor=white)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-314d5e.svg?logo=jenkins&logoColor=white)&nbsp;
+
+### Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-41327C.svg?logo=eclipse&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-ea4c1d.svg?logo=figma&logoColor=white)&nbsp;
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -57,11 +72,16 @@ Feel free to take a look at all my repositories and if you find something useful
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Spotify Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3z7i1fhzh9g6hnpygz3i3bqki&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=3z7i1fhzh9g6hnpygz3i3bqki&redirect=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Github Statistics
 ![Alexander Augusto github stats](https://github-readme-stats.vercel.app/api?username=alexanderaugusto&show_icons=true&hide_border=true)
-
-## Mostly used languages
 ![Alexander Augusto github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderaugusto&layout=compact&langs_count=6)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <i>Random dev joke for you!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
