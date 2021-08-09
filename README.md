@@ -1,13 +1,6 @@
 # Hello dear! Nice to meet you 😃
 
 
-[![GitHub followers](https://img.shields.io/github/followers/alexanderaugusto.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/alexanderaugusto?tab=followers)
-![](https://komarev.com/ghpvc/?username=alexanderaugusto&color=006bed)
-[![Linkedin Badge](https://img.shields.io/badge/-Alexander%20Augusto-006bed?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexanderaugusto/)](https://www.linkedin.com/in/alexanderaugusto/) 
-[![Gmail Badge](https://img.shields.io/badge/-alexaasf1010@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexaasf1010@gmail.com)](mailto:alexaasf1010@gmail.com)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 My name is Alexander, I am passionate about technology and how it helps people. I am currently involved in software development projects, mainly using JavaScript and Java.
 
 I am studying the 10th Period of Computer Engineering at the educational institution [Inatel](https://inatel.br/home/). Although I really like software development, one of the areas that I am interested in, is the area of Aritifical Intelligence, I am beginning to study the subject, dedicating all my free time to learn about this new universe and thinking about in the future specializing in it.
@@ -16,7 +9,7 @@ Feel free to take a look at all my repositories and if you find something useful
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## About
+## 📙 About
 
 - 🎤 I’m currently working on  [Ericsson](https://www.ericsson.com/en) | [Inatel](https://inatel.br/icc/)
 - 🏢 I'm currently studying on [Inatel](https://inatel.br/home/)
@@ -26,7 +19,7 @@ Feel free to take a look at all my repositories and if you find something useful
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Languages and Technologies
+## 💻 Languages and Technologies
 
 ### Development
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)&nbsp;
@@ -64,7 +57,7 @@ Feel free to take a look at all my repositories and if you find something useful
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Interests
+## 🤖 Interests
 - Artificial Inteligence
 - Data Science
 - Machine Learning
@@ -72,18 +65,18 @@ Feel free to take a look at all my repositories and if you find something useful
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Spotify Playing 🎧
+## 🎧 Spotify Playing 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3z7i1fhzh9g6hnpygz3i3bqki&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=3z7i1fhzh9g6hnpygz3i3bqki&redirect=true)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Github Statistics
+## 📈 Github Statistics
 ![Alexander Augusto github stats](https://github-readme-stats.vercel.app/api?username=alexanderaugusto&show_icons=true&hide_border=true)
 ![Alexander Augusto github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderaugusto&layout=compact&langs_count=6)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Let's connect
+## 📞 Let's connect
 
 <p>
   <a href="https://www.alexanderaugusto.com/" target="_blank"><img alt="MyWebsite" src="https://img.shields.io/badge/My Website%20-006bed.svg?&style=flat&logo=web&logoColor=white"/></a> &nbsp;
