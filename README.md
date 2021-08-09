@@ -83,5 +83,16 @@ Feel free to take a look at all my repositories and if you find something useful
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Let's connect
+
+<p>
+  <a href="https://www.alexanderaugusto.com/" target="_blank"><img alt="MyWebsite" src="https://img.shields.io/badge/My Website%20-006bed.svg?&style=flat&logo=web&logoColor=white"/></a> &nbsp;
+  <a href="https://www.linkedin.com/in/alexanderaugusto/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+	<a href="mailto:alexaasf1010@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+  <a href="https://instagram.com/alexanderaugustosf" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-@alexanderaugustosf-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+</p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <i>Random dev joke for you!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
