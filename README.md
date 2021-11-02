@@ -66,7 +66,7 @@ Feel free to take a look at all my repositories and if you find something useful
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🎧 Spotify Playing 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3z7i1fhzh9g6hnpygz3i3bqki&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=3z7i1fhzh9g6hnpygz3i3bqki&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fugl5yaqfwqdvphqh3es4kvoaa&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31fugl5yaqfwqdvphqh3es4kvoaa&redirect=true)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
