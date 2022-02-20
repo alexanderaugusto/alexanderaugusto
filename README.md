@@ -3,7 +3,7 @@
 
 My name is Alexander, I am passionate about technology and how it helps people. I am currently involved in software development projects, mainly using JavaScript and Java.
 
-I am studying the 10th Period of Computer Engineering at the educational institution [Inatel](https://inatel.br/home/). Although I really like software development, one of the areas that I am interested in, is the area of Aritifical Intelligence, I am beginning to study the subject, dedicating all my free time to learn about this new universe and thinking about in the future specializing in it.
+I am a Computer Enginner, graduated in institution [Inatel](https://inatel.br/home/). Although I really like software development, one of the areas that I am interested in, is the area of Aritifical Intelligence, I am beginning to study the subject, dedicating all my free time to learn about this new universe and thinking about in the future specializing in it.
 
 Feel free to take a look at all my repositories and if you find something useful there, don't think twice, you can take it home 😉.
 
