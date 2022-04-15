@@ -65,11 +65,6 @@ Feel free to take a look at all my repositories and if you find something useful
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🎧 Spotify Playing 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fugl5yaqfwqdvphqh3es4kvoaa&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31fugl5yaqfwqdvphqh3es4kvoaa&redirect=true)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## 📈 Github Statistics
 ![Alexander Augusto github stats](https://github-readme-stats.vercel.app/api?username=alexanderaugusto&show_icons=true&hide_border=true)
 ![Alexander Augusto github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderaugusto&layout=compact&langs_count=6)
