@@ -40,6 +40,7 @@ Feel free to take a look at all my repositories and if you find something useful
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726.svg?logo=jupyter&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-336791.svg?logo=postgresql&logoColor=white)&nbsp;
+![Oracle DB](https://img.shields.io/badge/Oracle%20DB-e32124.svg?logo=oracle&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-f5830d.svg?logo=firebase&logoColor=white)&nbsp;
 
@@ -54,6 +55,8 @@ Feel free to take a look at all my repositories and if you find something useful
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-41327C.svg?logo=eclipse&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-ea4c1d.svg?logo=figma&logoColor=white)&nbsp;
+
+[comment]: <> (https://github.com/devicons/devicon)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
