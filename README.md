@@ -3,7 +3,7 @@
 
 I'm a Computer Engineer who's always been fascinated by technology and the impact it can have on people's lives. Today, I work as a Software Architect, helping design efficient and thoughtful solutions. I'm constantly learning and keeping up with the latest in computing — growing and evolving is part of the journey.
 
-I am a Computer Enginner, graduated in institution [Inatel](https://inatel.br/home/). Although I really like software development, one of the areas that I am interested in, is the area of Aritifical Intelligence, I am beginning to study the subject, dedicating all my free time to learn about this new universe and thinking about in the future specializing in it.
+I am a Computer Enginner, graduated at [Inatel](https://inatel.br/home/). Although I really like software development, one of the areas that I am interested in, is the area of Aritifical Intelligence, I am beginning to study the subject, dedicating all my free time to learn about this new universe and thinking about in the future specializing in it.
 
 Feel free to take a look at all my repositories and if you find something useful there, don't think twice, you can take it home 😉.
 
