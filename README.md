@@ -1,7 +1,7 @@
 # Hello dear! Nice to meet you 😃
 
 
-My name is Alexander, I am passionate about technology and how it helps people. I am currently involved in software development projects, mainly using JavaScript and Java.
+I'm a Computer Engineer who's always been fascinated by technology and the impact it can have on people's lives. Today, I work as a Software Architect, helping design efficient and thoughtful solutions. I'm constantly learning and keeping up with the latest in computing — growing and evolving is part of the journey.
 
 I am a Computer Enginner, graduated in institution [Inatel](https://inatel.br/home/). Although I really like software development, one of the areas that I am interested in, is the area of Aritifical Intelligence, I am beginning to study the subject, dedicating all my free time to learn about this new universe and thinking about in the future specializing in it.
 
@@ -12,10 +12,10 @@ Feel free to take a look at all my repositories and if you find something useful
 ## 📙 About
 
 - 🎤 I’m currently working on  [Ericsson](https://www.ericsson.com/en) | [Inatel](https://inatel.br/icc/)
-- 🏢 I'm currently studying on [Inatel](https://inatel.br/home/)
+- 🏢 I have a degree in Computer Engineering and a postgraduate degree in Mobile Development and Cloud Computing from [Inatel](https://inatel.br/home/)
 - 🤖 I’m currently learning Artificial Inteligence
 - 🚀 Look to my projects on [https://alexanderaugusto.com/](https://alexanderaugusto.com/)
-- 💬 Ask me about Software Developer 
+- 💬 Ask me about Software Development 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -49,6 +49,7 @@ Feel free to take a look at all my repositories and if you find something useful
 ![Docker](https://img.shields.io/badge/Docker-2391e6.svg?logo=docker&logoColor=white)&nbsp;
 ![Travis](https://img.shields.io/badge/Travis-c73048.svg?logo=travis&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-314d5e.svg?logo=jenkins&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white)&nbsp;
 
 ### Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)&nbsp;
